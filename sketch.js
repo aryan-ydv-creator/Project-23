@@ -66,7 +66,6 @@ function draw() {
 	packageSprite.x= packageBody.position.x 
 	packageSprite.y= packageBody.position.y 
 	drawSprites();
-	keyPressed();
 	s1.display();
 	s2.display();
 	s3.display();
